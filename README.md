@@ -16,7 +16,9 @@
   <img align="center" alt="Docker" height="40" width="50" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" />
   <img align="center" alt="Docker" height="40" width="50" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" />
   <img align="center" alt="Docker" height="30" width="30" src="https://miro.medium.com/v2/resize:fit:700/0*sesfl3V6mvwVQUb1" />
-    
+  <img align="center" alt="Docker" height="30" width="30" src="https://www.svgrepo.com/show/255832/sql.svg" />
+   
+
 </div>
 
 ##
