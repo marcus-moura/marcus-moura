@@ -13,7 +13,7 @@
   <img align="center" alt="Docker" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
   <img align="center" alt="Docker" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img align="center" alt="Docker" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
-  <img align="center" alt="Docker" height="60" width="70" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" />
+  <img align="center" alt="Docker" height="40" width="50" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" />
     
 </div>
 
