@@ -17,7 +17,7 @@
   <img align="center" alt="Hadoop" height="40" width="50" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" />
   <img align="center" alt="Airflow" height="30" width="30" src="https://miro.medium.com/v2/resize:fit:700/0*sesfl3V6mvwVQUb1" />
   <img align="center" alt="Sql" height="35" width="35" src="https://www.svgrepo.com/show/255832/sql.svg" />
-  <img align="center" alt="Sql" height="35" width="35" src="https://seeklogo.com/images/D/dbt-logo-E4B0ED72A2-seeklogo.com.png" />
+  <img align="center" alt="Sql" height="35" width="35" src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js" />
   
 
 </div>
